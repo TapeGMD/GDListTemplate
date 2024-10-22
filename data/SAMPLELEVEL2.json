@@ -1,12 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [Riot and More],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik&t=1s",
+    "percentToQualify": "50",
     "records": [
     ]
 }
