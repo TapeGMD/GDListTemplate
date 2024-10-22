@@ -1,12 +1,11 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 3979721,
+    "name": "cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
+    "percentToQualify": "50",
     "records": [
         {
             "user": "Sample_Victor_1",
