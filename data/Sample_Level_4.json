@@ -1,23 +1,9 @@
 {
-    "id": 3979721,
-    "name": "cataclysm",
-    "author": "GgB0y",
-    "creators": ["GgB0y"],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "JonathanGD",
+    "verification": "https://www.youtube.com/watch?v=5yJmsTvBZVU&t=72s",
     "percentToQualify": "50",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
 }
