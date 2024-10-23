@@ -1,23 +1,9 @@
 {
-    "id": 3979721,
-    "name": "cataclysm",
-    "author": "GgB0y",
-    "creators": ["GgB0y"],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
+    "id": 45411361,
+    "name": "Envy",
+    "author": "Danzmen",
+    "creators": ["Danzmen and more"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=IUJdtXaUhGM",
     "percentToQualify": "50",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
 }
